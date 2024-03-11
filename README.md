@@ -2,8 +2,8 @@
 
 <h3 align="left">My name is Pedro Henrique, i'm a Full-Stack Developer from Brazil</h3>
 <ul>
-  <li>💻 I’m currently studying Computer Science on Universidade Federal do Ceará</li>
-  <li>🔭 Looking for opportunities as a developer. A developer like me is all you need.</li>
+  <li>I’m currently studying Computer Science on <a href="https://www.ufc.br/">Universidade Federal do Ceará</a></li>
+  <li>Looking for opportunities as a developer. A developer like me is all you need.</li>
 </ul>
 
 ###
@@ -43,7 +43,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pedroiosdev10001@gmail.com)
 
 
-## Portfolio:
+## Portfólio:
 - [Acesse aqui a minha página!](https://pedrohs.notion.site/pedrohs/Pedro-Henrique-S-R-0a2a537f14974f5eac21ea5a5172ee72)
 - [Swift - Hortcult](https://github.com/Pedro-HS-Rodrigues/HortCultApp/tree/release/3.0)
 
