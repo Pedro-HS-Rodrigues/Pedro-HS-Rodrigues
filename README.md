@@ -51,7 +51,6 @@
 
 <br clear="both">
 
-![snake animation](https://github.com/Pedro-HS-Rodrigues/Pedro-HS-Rodrigues/blob/output/github-contribution-grid-snake2.svg)
 
 ###
 
