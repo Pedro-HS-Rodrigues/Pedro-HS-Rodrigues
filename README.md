@@ -1,67 +1,61 @@
-<h1 align="center">Olá, eu sou Pedro Henrique 👋</h1>
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Preview README</title>
+<style>
+  :root { color-scheme: light dark; }
+  body { margin: 0; background: #0d1117; font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; color: #e6edf3; }
+  .wrap { max-width: 880px; margin: 24px auto; padding: 24px 32px 32px; border: 1px solid #30363d; border-radius: 6px; background: #0d1117; line-height: 1.5; font-size: 16px; }
+  .label { font-size: 12px; color: #8b949e; margin: 0 0 12px; font-family: monospace; }
+  h1 { font-size: 2em; text-align: center; border-bottom: 1px solid #30363d; padding-bottom: .3em; margin: 0 0 16px; }
+  h2 { font-size: 1.5em; border-bottom: 1px solid #30363d; padding-bottom: .3em; margin: 24px 0 16px; }
+  h3 { text-align: center; font-size: 1.25em; margin: 16px 0; }
+  p { margin: 0 0 16px; }
+  a { color: #4493f8; text-decoration: none; }
+  a:hover { text-decoration: underline; }
+  .center { text-align: center; }
+  .icons img { height: 40px; margin: 0 7px; }
+  .stats img { height: 165px; margin: 4px; }
+  .badges img { height: 28px; margin-right: 6px; }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <p class="label">README.md · prévia</p>
 
-<h3 align="center">Desenvolvedor Full-Stack | Brasil 🇧🇷</h3>
+  <h1>Olá, eu sou o Pedro Henrique 👋</h1>
+  <h3>Desenvolvedor Full-Stack · Brasil 🇧🇷</h3>
 
-<p align="center">
-  Estudante de Ciência da Computação na <a href="https://www.ufc.br/">Universidade Federal do Ceará (UFC)</a> e desenvolvedor com experiência em aplicações web e mobile. Atualmente, meu foco está no desenvolvimento backend com PHP e Laravel.
-</p>
+  <p class="center">
+    Sou estudante de Ciência da Computação na <a href="https://www.ufc.br/">Universidade Federal do Ceará</a>.<br>
+    Desenvolvo aplicações web de ponta a ponta, do back-end com PHP/Laravel e Java/Spring ao front-end com JavaScript, HTML e CSS, usando Docker no dia a dia.
+  </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/pedro-hs-rodrigues/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:pedroiosdev10001@gmail.com">
-    <img src="https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" />
-  </a>
-  <a href="https://pedrohs.notion.site/pedrohs/Pedro-Henrique-S-R-0a2a537f14974f5eac21ea5a5172ee72">
-    <img src="https://img.shields.io/badge/Portf%C3%B3lio-333333?style=for-the-badge&logo=notion&logoColor=white" alt="Portfólio" />
-  </a>
-</p>
+  <h2>🛠️ Stack principal</h2>
+  <div class="center icons">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" alt="PHP">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" alt="Laravel">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="Docker">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML5">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS3">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" alt="Spring">
+  </div>
 
-🧰 Tecnologias
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" height="40" alt="PHP" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" height="40" alt="Laravel" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="40" alt="Java" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg" height="40" alt="Swift" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" height="40" alt="Kotlin" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" height="40" alt="Flutter" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="40" alt="Python" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="40" alt="HTML5" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="40" alt="CSS3" />
+  <h2>📊 GitHub</h2>
+  <div class="center stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=Pedro-HS-Rodrigues&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&locale=en" alt="Estatísticas do GitHub">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Pedro-HS-Rodrigues&layout=compact&langs_count=6&theme=tokyonight&locale=en" alt="Linguagens mais usadas">
+  </div>
+
+  <h2>📫 Contato</h2>
+  <p class="badges">
+    <a href="https://www.linkedin.com/in/pedro-hs-rodrigues/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+    <a href="mailto:pedroiosdev10001@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+  </p>
 </div>
-
-📊 Estatísticas do GitHub
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Pedro-HS-Rodrigues&show_icons=true&include_all_commits=true&theme=tokyonight&locale=pt-br&hide_border=true" alt="Estatísticas do GitHub de Pedro Henrique" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-HS-Rodrigues&layout=compact&langs_count=6&theme=tokyonight&locale=pt-br&hide_border=true" alt="Linguagens mais usadas por Pedro Henrique" />
-</div>
-
-🔥 Consistência nas contribuições
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pedro-HS-Rodrigues&theme=tokyonight&hide_border=true&locale=pt_BR" alt="Sequência de contribuições de Pedro Henrique" />
-</p>
-
-📈 Atividade no GitHub
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pedro-HS-Rodrigues&theme=tokyo-night&hide_border=true&area=true&custom_title=Atividade%20de%20contribui%C3%A7%C3%B5es" alt="Gráfico de atividade de Pedro Henrique no GitHub" />
-</p>
-
-🚀 Projetos em destaque
-- HortCult — aplicativo iOS desenvolvido com Swift.
-- Portfólio — conheça outros projetos e um pouco mais sobre minha trajetória.
-<p align="center">
-  <i>Obrigado por visitar meu perfil! Vamos nos conectar e trocar ideias.</i>
-</p>
+</body>
+</html>
