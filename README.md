@@ -19,13 +19,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" alt="Spring" height="40">
 </p>
 
-## 📊 GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pedro-HS-Rodrigues&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&locale=en" alt="Estatísticas do GitHub" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Pedro-HS-Rodrigues&layout=compact&langs_count=6&theme=tokyonight&locale=en" alt="Linguagens mais usadas" height="165">
-</p>
-
 ## 📫 Contato
 
 <p>
